@@ -1,0 +1,71 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Vendor:   Intel
+    VRAM:     32 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eivydas\Pictures\Game Development\Sphaira_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eivydas\Pictures\Game Development\Sphaira_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eivydas\Pictures\Game Development\Sphaira_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Eivydas\Pictures\Game Development\Sphaira_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.470 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Eivydas\Pictures\Game Development\Sphaira_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.448845 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 112.
+Total: 1.024955 ms (FindLiveObjects: 0.008894 ms CreateObjectMapping: 0.012315 ms MarkObjects: 0.101263 ms  DeleteObjects: 0.032158 ms)
+
+UnloadTime: 0.485109 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 330.
+Total: 1.471748 ms (FindLiveObjects: 0.025315 ms CreateObjectMapping: 0.015736 ms MarkObjects: 0.219633 ms  DeleteObjects: 0.224422 ms)
+
+UnloadTime: 0.884006 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.247325 ms (FindLiveObjects: 0.027368 ms CreateObjectMapping: 0.019842 ms MarkObjects: 0.299686 ms  DeleteObjects: 0.008894 ms)
+
+UnloadTime: 1.238430 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.426590 ms (FindLiveObjects: 0.032158 ms CreateObjectMapping: 0.025315 ms MarkObjects: 0.426266 ms  DeleteObjects: 0.009579 ms)
+
+UnloadTime: 1.073534 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.262378 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.019158 ms MarkObjects: 0.276423 ms  DeleteObjects: 0.007526 ms)
+
+UnloadTime: 0.990744 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.212430 ms (FindLiveObjects: 0.027368 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.270949 ms  DeleteObjects: 0.008210 ms)
+
+UnloadTime: 1.009902 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.307536 ms (FindLiveObjects: 0.028052 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.273002 ms  DeleteObjects: 0.008894 ms)
+
+UnloadTime: 1.027692 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.295904 ms (FindLiveObjects: 0.027368 ms CreateObjectMapping: 0.019158 ms MarkObjects: 0.273002 ms  DeleteObjects: 0.006842 ms)
+
+UnloadTime: 1.115271 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.194640 ms (FindLiveObjects: 0.028052 ms CreateObjectMapping: 0.019842 ms MarkObjects: 0.274370 ms  DeleteObjects: 0.006842 ms)
+
